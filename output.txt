@@ -1,0 +1,6 @@
+Thorin enters the dungeon at Entrance.
+Thorin moves North to Hallway.
+Thorin fights Goblin: Victory
+Thorin tries to pick up Sword: Failed (item not in room).
+Thorin moves East to TreasureRoom.
+Thorin picked up Shield.
